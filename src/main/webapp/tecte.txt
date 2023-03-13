@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tecte test
+=======
+test
+>>>>>>> 76ad957f3803d2137101908082f5bbe00ec9f9f1
